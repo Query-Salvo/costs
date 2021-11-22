@@ -1,0 +1,59 @@
+{
+  "projects": [
+    {
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 5
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 6
+    },
+    {
+      "name": "thiagoo",
+      "budget": "5",
+      "cost": 0,
+      "services": [],
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
